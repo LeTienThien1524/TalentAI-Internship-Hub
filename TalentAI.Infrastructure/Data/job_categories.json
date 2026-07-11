@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "Name": "IT Phần mềm (Software Development)"
+  },
+  {
+    "Id": 2,
+    "Name": "IT Phần cứng / Mạng / Hệ thống"
+  },
+  {
+    "Id": 3,
+    "Name": "Kiểm thử phần mềm (QA / QC / Testing)"
+  },
+  {
+    "Id": 4,
+    "Name": "An toàn thông tin / Cyber Security"
+  },
+  {
+    "Id": 5,
+    "Name": "Quản lý dự án / Sản phẩm (PM / PO / BA)"
+  },
+  {
+    "Id": 6,
+    "Name": "Marketing / Tối ưu hóa tìm kiếm (SEO / SEM)"
+  },
+  {
+    "Id": 7,
+    "Name": "Truyền thông / Tổ chức sự kiện / PR"
+  },
+  {
+    "Id": 8,
+    "Name": "Kinh doanh / Phát triển thị trường (Sales / B2B)"
+  },
+  {
+    "Id": 9,
+    "Name": "Chăm sóc khách hàng / Telesales"
+  },
+  {
+    "Id": 10,
+    "Name": "Quản lý nhân sự / Tuyển dụng (HR / Recruitment)"
+  },
+  {
+    "Id": 11,
+    "Name": "Hành chính / Thư ký / Trợ lý (Admin)"
+  },
+  {
+    "Id": 12,
+    "Name": "Kế toán / Tài chính doanh nghiệp"
+  },
+  {
+    "Id": 13,
+    "Name": "Kiểm toán / Thuế"
+  },
+  {
+    "Id": 14,
+    "Name": "Ngân hàng / Đầu tư / Chứng khoán"
+  },
+  {
+    "Id": 15,
+    "Name": "Thiết kế đồ họa / UI-UX / 3D Design"
+  },
+  {
+    "Id": 16,
+    "Name": "Sáng tạo nội dung / Copywriter / Video Editor"
+  },
+  {
+    "Id": 17,
+    "Name": "Thương mại điện tử / Quản lý gian hàng"
+  },
+  {
+    "Id": 18,
+    "Name": "Chuỗi cung ứng / Logistics / Thu mua (Procurement)"
+  },
+  {
+    "Id": 19,
+    "Name": "Giáo dục / Đào tạo / Giảng dạy"
+  },
+  {
+    "Id": 20,
+    "Name": "Tư vấn pháp lý / Luật doanh nghiệp"
+  },
+  {
+    "Id": 21,
+    "Name": "Y tế / Dược phẩm / Chăm sóc sức khỏe"
+  },
+  {
+    "Id": 22,
+    "Name": "Biên phiên dịch / Hướng dẫn viên (Languages)"
+  }
+]

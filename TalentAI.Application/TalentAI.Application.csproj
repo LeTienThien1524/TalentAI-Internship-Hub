@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TalentAI.Domain\TalentAI.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Common\Constants\" />
+    <Folder Include="Features\Candidates\Queries\GetCandidateById\" />
+    <Folder Include="Features\Candidates\Queries\GetCandidates\" />
+    <Folder Include="Features\Dashboard\Controllers\" />
+    <Folder Include="Features\Experiences\Commands\CreateExperience\" />
+    <Folder Include="Features\Experiences\Commands\DeleteExperience\" />
+    <Folder Include="Features\Experiences\Commands\UpdateExperience\" />
+    <Folder Include="Features\Experiences\DTOs\" />
+    <Folder Include="Features\Experiences\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.2.0" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.28" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="MediatR" Version="14.1.0" />
+  </ItemGroup>
+
+</Project>

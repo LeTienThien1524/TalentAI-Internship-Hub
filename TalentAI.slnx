@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TalentAI.API/TalentAI.API.csproj" Id="bd089b5e-2c31-4106-8a16-c44debd33d10" />
+  <Project Path="TalentAI.Application/TalentAI.Application.csproj" Id="085ad1dc-f6f6-4039-b751-deea4c2cb6de" />
+  <Project Path="TalentAI.Domain/TalentAI.Domain.csproj" Id="e79453d4-4f56-4185-97dd-05a23d9f0c70" />
+  <Project Path="TalentAI.Infrastructure/TalentAI.Infrastructure.csproj" Id="abcf23a8-4041-406b-92ef-fc0a27f06632" />
+</Solution>

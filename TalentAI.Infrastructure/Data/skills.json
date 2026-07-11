@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "Name": "C# / .NET Core / ASP.NET"
+  },
+  {
+    "Id": 2,
+    "Name": "Java / Spring Boot / Jakarta EE"
+  },
+  {
+    "Id": 3,
+    "Name": "JavaScript / TypeScript"
+  },
+  {
+    "Id": 4,
+    "Name": "ReactJS / Next.js"
+  },
+  {
+    "Id": 5,
+    "Name": "Angular"
+  },
+  {
+    "Id": 6,
+    "Name": "VueJS"
+  },
+  {
+    "Id": 7,
+    "Name": "HTML5 / CSS3 / TailwindCSS"
+  },
+  {
+    "Id": 8,
+    "Name": "Node.js / Express / NestJS"
+  },
+  {
+    "Id": 9,
+    "Name": "Python / Django / FastAPI"
+  },
+  {
+    "Id": 10,
+    "Name": "PHP / Laravel"
+  },
+  {
+    "Id": 11,
+    "Name": "Golang"
+  },
+  {
+    "Id": 12,
+    "Name": "Ruby on Rails"
+  },
+  {
+    "Id": 13,
+    "Name": "Flutter / Dart"
+  },
+  {
+    "Id": 14,
+    "Name": "React Native"
+  },
+  {
+    "Id": 15,
+    "Name": "Swift / iOS Development"
+  },
+  {
+    "Id": 16,
+    "Name": "Kotlin / Android Development"
+  },
+  {
+    "Id": 17,
+    "Name": "SQL Server / Azure SQL"
+  },
+  {
+    "Id": 18,
+    "Name": "PostgreSQL"
+  },
+  {
+    "Id": 19,
+    "Name": "MySQL"
+  },
+  {
+    "Id": 20,
+    "Name": "MongoDB"
+  },
+  {
+    "Id": 21,
+    "Name": "Redis Cache"
+  },
+  {
+    "Id": 22,
+    "Name": "Docker / Kubernetes"
+  },
+  {
+    "Id": 23,
+    "Name": "AWS (Amazon Web Services)"
+  },
+  {
+    "Id": 24,
+    "Name": "Microsoft Azure"
+  },
+  {
+    "Id": 25,
+    "Name": "Google Cloud Platform (GCP)"
+  },
+  {
+    "Id": 26,
+    "Name": "DevOps / CI-CD"
+  },
+  {
+    "Id": 27,
+    "Name": "Git / GitHub / GitLab"
+  },
+  {
+    "Id": 28,
+    "Name": "Agile / Scrum / Jira"
+  },
+  {
+    "Id": 29,
+    "Name": "Object-Oriented Programming (OOP)"
+  },
+  {
+    "Id": 30,
+    "Name": "RESTful API / GraphQL"
+  },
+  {
+    "Id": 31,
+    "Name": "Microservices Architecture"
+  },
+  {
+    "Id": 32,
+    "Name": "Software Architecture / Design Patterns"
+  },
+  {
+    "Id": 33,
+    "Name": "Machine Learning / Deep Learning"
+  },
+  {
+    "Id": 34,
+    "Name": "Natural Language Processing (NLP)"
+  },
+  {
+    "Id": 35,
+    "Name": "Computer Vision"
+  },
+  {
+    "Id": 36,
+    "Name": "Data Analysis / PowerBI"
+  },
+  {
+    "Id": 37,
+    "Name": "Manual Testing"
+  },
+  {
+    "Id": 38,
+    "Name": "Automation Testing"
+  },
+  {
+    "Id": 39,
+    "Name": "UI-UX Design (Figma)"
+  },
+  {
+    "Id": 40,
+    "Name": "SEO / Google Analytics"
+  },
+  {
+    "Id": 41,
+    "Name": "Content Writing"
+  },
+  {
+    "Id": 42,
+    "Name": "English (IELTS / TOEIC)"
+  },
+  {
+    "Id": 43,
+    "Name": "Japanese (N3 / N2 / N1)"
+  },
+  {
+    "Id": 44,
+    "Name": "Communication / Teamwork"
+  },
+  {
+    "Id": 45,
+    "Name": "Problem Solving"
+  }
+]

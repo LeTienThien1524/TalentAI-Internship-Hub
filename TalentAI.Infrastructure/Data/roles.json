@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "A079D193-272F-4340-9E1D-4171DC95EA3A",
+    "Name": "Admin",
+    "NormalizedName": "ADMIN",
+    "CreatedAt": "2026-06-16T17:17:54.350Z",
+    "UpdatedAt": "2026-07-04T00:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": "B079D193-272F-4340-9E1D-4171DC95EA3D",
+    "Name": "Candidate",
+    "NormalizedName": "CANDIDATE",
+    "CreatedAt": "2026-06-16T17:17:54.350Z",
+    "UpdatedAt": "2026-07-04T00:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": "E3A9D193-272F-4340-9E1D-4171DC95EA3E",
+    "Name": "Company",
+    "NormalizedName": "COMPANY",
+    "CreatedAt": "2026-06-16T17:17:54.350Z",
+    "UpdatedAt": "2026-07-04T00:00:00Z",
+    "IsDeleted": false
+  }
+]
