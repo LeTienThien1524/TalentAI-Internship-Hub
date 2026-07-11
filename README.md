@@ -1,4 +1,4 @@
-# TalentAI Internship Hub
+# TalentAI Internship Hub (Đang phát triển)
 
 TalentAI Internship Hub là nền tảng tuyển dụng thực tập ứng dụng trí tuệ nhân tạo (AI), giúp kết nối ứng viên và doanh nghiệp thông qua phân tích CV tự động và hệ thống đánh giá mức độ phù hợp giữa ứng viên và vị trí tuyển dụng.
 
